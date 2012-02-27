@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightingDown.App", "LightingDown\LightingDown.App.csproj", "{D205C142-D37F-47AE-B3B3-726FA7C821B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightingDown.Download.Core", "LightingDown.Download.Core\LightingDown.Download.Core.csproj", "{F610730F-6446-42B9-BB82-6163BABEA8F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D205C142-D37F-47AE-B3B3-726FA7C821B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D205C142-D37F-47AE-B3B3-726FA7C821B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D205C142-D37F-47AE-B3B3-726FA7C821B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D205C142-D37F-47AE-B3B3-726FA7C821B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F610730F-6446-42B9-BB82-6163BABEA8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F610730F-6446-42B9-BB82-6163BABEA8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F610730F-6446-42B9-BB82-6163BABEA8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F610730F-6446-42B9-BB82-6163BABEA8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

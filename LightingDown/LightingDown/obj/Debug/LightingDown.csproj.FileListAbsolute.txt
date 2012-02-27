@@ -1,0 +1,8 @@
+E:\Program Files\Microsoft Visual Studio 9.0\MyProjects\LightingDown\LightingDown\bin\Debug\LightingDown.exe
+E:\Program Files\Microsoft Visual Studio 9.0\MyProjects\LightingDown\LightingDown\bin\Debug\LightingDown.pdb
+E:\Program Files\Microsoft Visual Studio 9.0\MyProjects\LightingDown\LightingDown\obj\Debug\ResolveAssemblyReference.cache
+E:\Program Files\Microsoft Visual Studio 9.0\MyProjects\LightingDown\LightingDown\obj\Debug\LightingDown.MainForm.resources
+E:\Program Files\Microsoft Visual Studio 9.0\MyProjects\LightingDown\LightingDown\obj\Debug\LightingDown.Properties.Resources.resources
+E:\Program Files\Microsoft Visual Studio 9.0\MyProjects\LightingDown\LightingDown\obj\Debug\LightingDown.csproj.GenerateResource.Cache
+E:\Program Files\Microsoft Visual Studio 9.0\MyProjects\LightingDown\LightingDown\obj\Debug\LightingDown.exe
+E:\Program Files\Microsoft Visual Studio 9.0\MyProjects\LightingDown\LightingDown\obj\Debug\LightingDown.pdb
