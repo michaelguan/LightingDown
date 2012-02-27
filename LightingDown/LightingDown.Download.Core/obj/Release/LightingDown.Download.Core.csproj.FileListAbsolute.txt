@@ -1,6 +1,0 @@
-E:\Program Files\Microsoft Visual Studio 9.0\MyProjects\LightingDown\LightingDown.Download.Core\bin\Release\LightingDown.Download.Core.dll.config
-E:\Program Files\Microsoft Visual Studio 9.0\MyProjects\LightingDown\LightingDown.Download.Core\bin\Release\LightingDown.Download.Core.dll
-E:\Program Files\Microsoft Visual Studio 9.0\MyProjects\LightingDown\LightingDown.Download.Core\bin\Release\LightingDown.Download.Core.pdb
-E:\Program Files\Microsoft Visual Studio 9.0\MyProjects\LightingDown\LightingDown.Download.Core\obj\Release\ResolveAssemblyReference.cache
-E:\Program Files\Microsoft Visual Studio 9.0\MyProjects\LightingDown\LightingDown.Download.Core\obj\Release\LightingDown.Download.Core.dll
-E:\Program Files\Microsoft Visual Studio 9.0\MyProjects\LightingDown\LightingDown.Download.Core\obj\Release\LightingDown.Download.Core.pdb
